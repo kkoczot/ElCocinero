@@ -1,0 +1,581 @@
+{
+    "pl": {
+        "popup": {
+            "title": "Ta strona używa cookies",
+            "text": "Strona używa plików cookie w celu zapisania informacji o używanym języku, motywie (wiodącym kolorze) oraz zapisu informacji z zewnętrznego źródła - youtube.",
+            "btn": "Akceptuję"
+        },
+        "notFound": {
+            "ups": "Ups!",
+            "info": "Wygląda na to, że szukana przez ciebie strona nie istnieje!",
+            "link": "Strona główna"
+        },
+        "noInternet": {
+            "title": "Brak internetu!",
+            "info": "Wygląda na to, że nie masz połączenia z internetem!"
+        },
+        "header": {
+            "menu": "Menu",
+            "product1": "Dania główne",
+            "product2": "Desery",
+            "product3": "Sałatki",
+            "aboutUs": "O nas",
+            "more": "Więcej",
+            "lang": "Wybierz język:"
+        },
+        "footer": {
+            "col1": {
+                "desc": "Godziny otwarcia",
+                "col1.1": "Pn-Pt: 8:00-22:00",
+                "col1.2": "Sb: 12:00-24:00",
+                "col1.3": "Nd: 12:00-24:00"
+            },
+            "col2": {
+                "col2.1": "Strona nie zachęca do brania jakichkolwiek używek.",
+                "col2.2": "Strona nie reklamuje prawdziwej restauracji.",
+                "col2.3": "Strona jest tylko pokazem umiejętności programistycznych autora.",
+                "col2.4": "Strona wspomaga się serialami: Breaking Bad i Narcos (Meksyk)."
+            },
+            "col3": {
+                "col3.1": "Kontakt: kacper04business@gmail.com",
+                "col3.2": "linkedIn: n/a"
+            }
+        },
+        "home": {
+            "home": {
+                "title1": "Nasza wyjątkowość",
+                "desc1": "Nasza wyjątkowość ma różne źródła. Przede wszystkim są to ludzie pracujący w naszej restauracji. To oni tworzą ten wspaniały klimat. To oni sprawiają, że chce się tu wracać. To z nimi, nasz drogi kliencie, spędzisz wiele czasu. Drugim źródłem naszej wyjątkowości jest umiejscowienie naszych restauracji i sam budynek. Każdy z nich jest iście magicznym miejscem. Każde przybycie do naszej restauracji to magiczne spotkanie. Trzecim źródłem są nasze produkty serwowane przez unikalnych mistrzów kuchni. Są jedyni w swoim rodzaju. To dzięki ich umiejętnościom na wejściu onieśmieli cię niezwykły zapach naszych dań, a kiedy sam ich spróbujesz - postanowisz zostać na dłużej na tym niezwykłym spotkaniu.",
+                "title2": "Nasi kucharze",
+                "desc2": "Nasi kucharze są w rzeczy samej wyjątkowi. Połączyli siły aby dać ludzkości coś od siebie, coś niezwykłego, coś magicznego. Coś czego każdy sam nie dałby rady dać. Efektem tego jest sieć restauracyjna - ElCocinero. Każdy zna się trochę na czym innym, ale po połączeniu sił z kuchni wychodzą niesamowite dania. Zabierają każdego gościa w niezwykłą przygodę, wyłączną, magiczną. (Postaci naszych kucharzy wyświetlają ci się na górze ekranu.)",
+                "title3": "Działalność",
+                "desc3": "Od początku naszej działalności, staramy się bardzo, dotrzeć do jak najwększej ilości osób. W celu rozpromowania nas powstały nawet seriale opowiadające historie naszych szefów kuchni. Jesteśmy dumni z naszej działalności i z tego, że możemy serwować tak dobre jadło osobom, które postanowiły nas znaleźć. Chcemy być dla was jak najlepszym sąsiadem, do którego zawsze możecie wpaść i czuć się jak u siebie w domu kosztując naszych dań i poznając się na nowo.",
+                "title4": "Nasze dania",
+                "desc4": "Nasze dania powstają z sercem. Nigdy nie wychodzą z kuchni dwa takie same posiłki mimo jednej nazwy. To nadaje im wyjątkowości i sprawia, że każda osoba nas odwiedzająca może czuć się doceniona. Każdy posiłek jest magicznym spotkaniem z samym sobą. Jest odkryciem siebie na nowo i pokochniem swoich zmysłów. Jest podróżą, którą serwują w aurze tajemniczości nasi kucharze. Doceń ten zapach, doceń ten smak. Odkryj to co ci smakuje najbardziej. Poznaj nas by poznać samego siebie.",
+                "title5": "Restauracje",
+                "desc5": "Nasze restauracje są otoczone tajemnicą. Nie znajdziesz ich w oczywisych miejscach. Wymagają podróży, szukania. Są pewnego rodzaju alegorią. Jednak kiedy już jakąś znajdziesz - poznasz od razu. Wyróżnia się na tle innych budynków restauracyjnych. Nasze restauracje są magiczne. Są jednym z elementów tworzących unikalną atmosferę. Podobnie miejsca, w których się znajdują. W środku poczujesz się przytulnie. Jak w domu. Otoczy cię przyjemny zapach jadła. W oczekiwaniu na swoją potrawę będziesz słyszał rozmowy, śmiechy. Nie czekaj i przyjdź do nas już dziś, a kto szuka ten nas znajdzie i się nie zawiedzie."
+            },
+            "carousel": {
+                "img1": "Nasi mistrzowie dań głównych",
+                "img2": "Nasz kucharz od deserów",
+                "img3": "Nasz specjalista od sałatek"
+            },
+            "opinions": {
+                "opinion1": "Trafiłem do tej restauracji przypadkiem, ale od razu serwowane w niej dania trafiły w mój gust. Wystrój wnętrza jest ciekawy. Bardzo mi się podoba. Obsługa jest przemiła. Na pewno przyjdę jeszcze kiedyś spróbować innych dań.",
+                "opinion2": "Mam ciężką pracę, nie ukrywam. Ale to co podnosi mnie na duchu to słodkości serwowane przez tą restaurację. Będąc na służbie zawsze wpadam z wizytą by coś zamówić. Do tego gorąca kawa i życie staje się lepsze.",
+                "opinion3": "Zacznę od tego, że to moja ulubiona restauracja. Atmosfera jest mega. Zawsze można z kimś pogadać i zawsze można coś dobrego zjeść. Bycie w tej restauracji to przeżycie metafizyczne. Totalny odjazd. Polecam gorąco."
+            }
+        },
+        "menu": {
+            "title": "Menu",
+            "title1": "Dania główne",
+            "desc1": "W naszej restauracji oferujemy wyśmienity wybór dań głównych, które zaspokoją każde podniebienie. Od soczystych steków po pocieszające i aromatyczne burrito – nasze menu zostało zaprojektowane tak, aby zadowolić wymagających gości. Dla spragnionych smaku Włoch najlepszym wyborem będzie nasza domowa lazania. Nasze dania główne tworzone są z najlepszych składników, umiejętnie przygotowywane przez naszych utalentowanych szefów kuchni i podawane z nienaganną starannością, aby zapewnić niezapomniane wrażenia kulinarne.",
+            "title2": "Desery",
+            "desc2": "W naszej restauracji możesz delektować się wyśmienitymi deserami, które zaspokoją każdy apetyt na słodycze. Od klasycznych ulubionych dań po innowacyjne kreacje, nasze menu deserów oferuje szeroką gamę opcji, dzięki czemu każdy znajdzie dla siebie idealną przekąskę. Zanurz się w bogatej i kremowej szarlotce, niesamowitych ciastach Snickers i przepysznych eklerkach. Niezależnie od Twoich pragnień, nasze desery są przygotowywane z najlepszych składników i wykonywane z umiejętnościami i pasją, gwarantując wspaniałe zakończenie posiłku.",
+            "title3": "Sałatki",
+            "desc3": "Nasza restauracja oferuje szeroki wybór orzeźwiających i pożywnych sałatek, które idealnie nadają się na lekki i zdrowy posiłek. Od klasycznej sałatki ziemniaczanej po tętniącą życiem i kolorami sałatkę egzotyczną – każdy znajdzie coś dla siebie. Nasze sałatki składają się ze świeżych, lokalnych warzyw, cudownuch dodatków i pysznych domowych sosów. Niezależnie od tego, czy masz ochotę na szybki lunch, czy też wyrazistą przystawkę, nasze sałatki z pewnością sprawią, że poczujesz się usatysfakcjonowany i pełen energii."
+         },
+        "mainCourse": {
+            "mainTitle": "Dania główne",
+            "mainDesc": "Nasze dania przygotowywane są z najlepszych składników, a jednym z nich jest pasja z jaką gotują nasi kucharze. Dania główne nie są tutaj wyjątkiem. Pełne smaku i zapachu staną się dla ciebie niesamowitym przeżyciem, w cieple naszej restauracji.",
+            "item1": {
+                "title": "Burrito",
+                "desc": "Pyszne i sycące, nasze burrito to pikantna meksykańska rozkosz, która z pewnością zadowoli Twoje kubki smakowe. Pełne mięsa, ryżu, fasoli, topionego sera, świeżych warzyw i odrobiny pikantnej salsy, każdy kęs to eksplozja pyszności. Podawane z dodatkiem kremowego guacamole i kwaśnej śmietany. Nie przegap tego kulinarnego doświadczenia, które sprawi, że będziesz chciał więcej."
+            },
+            "item2": {
+                "title": "Hamburgery",
+                "desc": "Soczyste, aromatyczne i przepełnione satysfakcją, wykonane z najwyższej jakości składników. Wybieraj spośród szeregu kuszących dodatków, takich jak topiony ser, chrupiący bekon lub smażona cebula, aby stworzyć własne kulinarne dzieło. Podawane z dużą porcją złocistych frytek lub wyrazistą sałatką, nasze hamburgery to najwyższy komfort jedzenia."
+            },
+            "item3": {
+                "title": "Lazania",
+                "desc": "Pyszne warstwy cienkich płatków makaronu, bogaty sos boloński i kremowy beszamel łączą się w naszej przepysznej lazanii. To tradycyjne włoskie danie to symfonia smaków, która zaspokoi Twoje zachcianki. Posypana złotą warstwą roztopionego sera, nasza lazania jest ugotowana do perfekcji i podawana na gorąco. Zanurz się w tym pożywnym i pocieszającym klasyku, który sprawi, że będziesz pragnął więcej."
+            },
+            "item4": {
+                "title": "Placki ziemniaczane",
+                "desc": "Chrupiące i złociste, nasze placki ziemniaczane to pyszne i pocieszające danie, które zabierze Cię w podróż smaków. Te pikantne przysmaki, przyrządzane z tartych ziemniaków, cebuli i odrobiny przypraw, są doskonale smażone na patelni. Podawane z odrobiną naszej domowej kwaśnej śmietany i posypką świeżego szczypiorku, nasze Placki Ziemniaczane sprawią, że będziesz miał ochotę na więcej."
+            },
+            "item5": {
+                "title": "Stek",
+                "desc": "Soczysty, delikatny i pełen smaku, nasz grillowany stek to rozkosz dla mięsożerców. Profesjonalnie doprawiony, każdy przepyszny kęs to osobista podróż. Ten soczysty stek, pozyskiwany z najlepszych kawałków doskonałej wołowiny, jest smażony na kuszący stopień średnio-wysmażony, dzięki czemu naturalne soki łączą się z dymnym aromatem naszego grilla na otwartym ogniu."
+            },
+            "item6": {
+                "title": "Tacos",
+                "desc": "Zachwyć swoje kubki smakowe naszymi przepysznymi tacos – prawdziwie autentyczne meksykańskie przeżycie! Podawane w ciepłych, miękkich tortillach, nasze tacos są wypełnione po brzegi aromatycznymi składnikami. Każdy kęs to eksplozja żywych smaków i tekstur, tworząc symfonię doznań smakowych. Przyjdź i przeżyj fiestę smaków dzięki naszej kuszącej ofercie taco!"
+            }
+        },
+        "desserts": {
+            "mainTitle": "Desery",
+            "mainDesc": "Nasze dania przygotowywane są z najlepszych składników, a jednym z nich jest pasja z jaką gotują nasi kucharze. Desery nie są tutaj wyjątkiem. Pełne smaku i zapachu zapewnią ci niezapomniane chwile i sprawią, że zapomnisz o trudach życia. Otoczony niezwykłą atmosferą zostaniesz sam na sam ze swoim jedynym i niepowtarzalnym deserem.",
+            "item1": {
+                "title": "Szarlotka",
+                "desc": "Nasza popisowa szarlotka to niebiański deser. Rozkoszuj się naszą kruchą, złotobrązową skórką, obficie wypełnioną mieszanką ręcznie zbieranych, świeżo pokrojonych jabłek obtoczonych w aromatycznych przyprawach. Wypieczone do perfekcji, może poszczycić się kuszącą równowagą słodkich i cierpkich smaków. Nasi szefowie kuchni serwują je na ciepło z gałką kremowych lodów waniliowych."
+            },
+            "item2": {
+                "title": "Eklerki",
+                "desc": "Rozkoszuj się naszymi eklerkami! Te wyśmienite wypieki mają lekką i zwiewną skorupę z ciasta parzonego, obficie wypełnioną soczystym kremem i zwieńczoną bogatym czekoladowym ganache. Każdy kęs to harmonijna równowaga tekstur i smaków. Delektuj się elegancją i kunsztem kulinarnym naszych eklerków, deseru, który jest prawdziwym dziełem sztuki."
+            },
+            "item3": {
+                "title": "Ciasto bezowe",
+                "desc": "Boska kreacja dla miłośników deserów! Zanurz się w lekkich i zwiewnych warstwach delikatnej bezy, doskonale zrównoważonej soczystym nadzieniem. To arcydzieło rzemiosła cukierniczego łączy chrupiące, rozpływające się w ustach skorupki bezowe z szeroką gamą słodkich i pikantnych smaków. Ten eteryczny deser, ozdobiony świeżymi owocami, z pewnością oczaruje Twoje kubki smakowe."
+            },
+            "item4": {
+                "title": "Donuty",
+                "desc": "Rozkoszuj się naszą wyśmienitą gamą donutów, którym po prostu nie można się oprzeć. Każdy donut jest wykonany ręcznie z miłością, aby zapewnić niebiańskie doznania smakowe. Nasze donuty są idealnie wysmażone na złocistobrązowy kolor, a ich puszyste wnętrze rozpływa się w ustach. Podaruj sobie słodką rozkosz i przeżyj czystą rozkosz z naszymi wyśmienitymi donutami dzięki naszym szefom kuchni."
+            },
+            "item5": {
+                "title": "Ciasto snickers",
+                "desc": "Rozkoszuj się grzesznie pysznym ciastem Snickers, przepysznym połączeniem bogatego ciasta czekoladowego, warstw kremowego karmelu i posiekanych orzeszków ziemnych, obficie posypanych aksamitnym czekoladowym ganache. Ten niebiański deser z pewnością zaspokoi Twoją ochotę na słodycze. Dzięki klimatowi naszej restauracji, jedząc ten deser, poczujesz się jak we własnym domu."
+            },
+            "item6": {
+                "title": "Ciasto tiramisu",
+                "desc": "Rozkoszuj się naszym klasycznym ciastem tiramisu. Warstwy delikatnego biszkoptu nasączonego espresso obficie zanurzone są w soczystym likierze kawowym, tworząc idealną harmonię smaków. Pomiędzy wilgotnymi warstwami kryje się aksamitny krem ​​mascarpone, delikatnie słodzony i niewymownie lekki. Posypane odrobiną kakao, to włoskie arcydzieło może być Twoje..."
+            }
+        },
+        "salads": {
+            "mainTitle": "Sałatki",
+            "mainDesc": "Nasze dania przygotowywane są z najlepszych składników, a jednym z nich jest pasja z jaką gotują nasi kucharze. Sałatki nie są tutaj wyjątkiem. Dzięki bogatej palecie smaku i ciekawej fakturze zapewnią ci niezapomniane chwile i sprawią, że odetchniesz od codziennych trudności.",
+            "item1": {
+                "title": "Sałatka z buraków",
+                "desc": "Orzeźwiająca sałatka z buraków: rozkoszuj się żywymi kolorami i smakami naszej sałatki z buraków. Pyszna mieszanka świeżych buraków, chrupiących warzyw, skropiona pikantnym dressingiem cytrynowym. To zachwycające połączenie słodyczy i słoności z pewnością pobudzi Twoje kubki smakowe. Idealny wybór na lekką i zdrową przekąskę lub zachwycający dodatek do dania głównego."
+            },
+            "item2": {
+                "title": "Sałatka z kurczaka",
+                "desc": "Delektuj się idealną mieszanką smaków dzięki naszej pysznej sałatce z kurczakiem. Delikatne, soczyste kawałki grillowanego kurczaka są obficie podawane z chrupiącymi liśćmi sałaty, soczystymi pomidorkami koktajlowymi, chrupiącymi ogórkami i wyrazistą papryką. Zanurz się w lekkim i zdrowym doświadczeniu kulinarnym, które sprawi, że będziesz miał ochotę na więcej!"
+            },
+            "item3": {
+                "title": "Sałatka jajeczna",
+                "desc": "Rozkosz z sałatką jajeczną: zanurz się w przepysznej mieszance kremowej dobroci z naszą charakterystyczną sałatką jajeczną! Przygotowane z delikatnie ugotowanych jajek i lekko zmieszane z majonezem, pikantną musztardą i nutą pikantnego koperku. Podawana na mieszance świeżych warzyw, nasza sałatka to najlepszy wybór na lekki i satysfakcjonujący posiłek."
+            },
+            "item4": {
+                "title": "Egzotyczna sałatka",
+                "desc": "Rozkoszuj się wyśmienitą sałatką charakteryzującą się idealną równowagą ziemistych i słodkich nut. Nasza sałatka z figami i grzybami halloumi to kulinarna rozkosz, która oczaruje Twoje kubki smakowe. Posypane świeżą zieleniną i skropione pikantną polewą balsamiczną. Zanurz się w symfonii smaków dzięki temu wykwintnemu daniu, starannie wykonanemu, aby podnieść jakość posiłku."
+            },
+            "item5": {
+                "title": "Grillowane bakłażany",
+                "desc": "Grillowane bakłażany nadziewane aromatyczną dobrocią. Rozkoszuj się kulinarnym arcydziełem dzięki naszym grillowanym bakłażanom nadziewanym aromatycznymi dodatkami. Te soczyste bakłażany, doskonale grillowane, przekształcają się w zachwycające płótno, na którym można uzyskać bogaty i kuszący farsz. Każdy kęs odkrywa symfonię smaków, która przeniesie Cię w nieznane miejsce."
+            },
+            "item6": {
+                "title": "Sałatka ziemniaczana",
+                "desc": "Nasza pyszna, domowa sałatka ziemniaczana to prawdziwy klasyk! Zaczynamy od delikatnych ziemniaków, ugotowanych do perfekcji, a następnie polanych kremowym dressingiem na bazie majonezu z mieszanką aromatycznych ziół i przypraw. Pełne świeżej chrupkości dodajemy seler i cebulę, aby uzyskać dodatkową warstwę tekstury i smaku. Tego przepysznego przysmaku musisz spróbować!"
+            }
+        },
+        "about": {
+            "section0": {
+                "title": "O nas",
+                "desc": "Przed wieloma laty, wielcy kucharze postanowili połączyć siły. Każdy z nich był mistrzem w swojej dziedzinie. Mieli mnóstwo klientów i budzili wielkie zainteresowanie niejednej firmy. Choć radzili sobie dobrze to postanowili coś dać światu. Dar ten wymagał ich współpracy i zaangażowania. Efektem tego co się wydarzyło jest sieć restauracji ElCocinero. Nie jest to typowa restauracja. Nie znajdziesz jej tam gdzie byś się spodziewał, chociaż w swojej ofercie mają typowe dania. A jednak jest w nich coś nieoczywystego. Tak samo jak w miejsach gdzie możesz tych dań spróbować. Odnalezienie tej restauracji to odnalezienie siebie."
+            },
+            "section1": {
+                "title": "Gdzie nas można spotkać?",
+                "desc": "Pomimo sukcesu jaki moglibyśmy odnieść w miastach, mistrzowie kuchni ustalili, iż miejsca w których są restauracje, będą przypominać o ich skromnych początkach i miejscach, w których zaczynali. Dlatego nasze magiczne restauracje znajdziesz w natępujących miejsach:",
+                "subtitle1": "Na bezdrożach",
+                "subtitle2": "W lesie"
+            },
+            "section2": {
+                "title": "Kim są nasi kucharz?",
+                "subtitle1": {
+                    "firstName1": "Walter",
+                    "nickName1": "Heisenberg",
+                    "lastName1": "White",
+                    "firstName2": "Jesse",
+                    "lastName2": "Pinkman"
+                },
+                "subtitle1_type": "Dania główne",
+                "desc1": "Za dania główne odpowiada ten zespół. Jeszcze przez założeniem ElCocinero pracowali razem. Znają siebie i znają się na robocie. To ten duet zaserwuje wam jedzenie, które na długo zapamiętacie. Ten smak i zapach w okrasie z niezwykłego wyglądu zatrzymają was w naszej restauracji na dłużej.",
+                "subtitle2": "Pablo Escobar",
+                "subtitle2_type": "Desery",
+                "desc2": "Zdecydowanym mistrzem deserów jest ten szef kuchni. Jego desery wyzwalają w naszych gościach wiele pozytywnych emocji. Do wybory jest szeroka gama więc zawsze znajdzie się coś odpowiedniego na różnego rodzaju okazje. Zdecydowanie zapraszamy spróbować co do zaoferowania ma ten kolumbijski szef kuchni.",
+                "subtitle3": "Rafael Caro Quintero",
+                "subtitle3_type": "Sałatki",
+                "desc3": "Od zawsze marzył o wielkim polu, na którym mogłby uprawiać swoje specjały. Kiedy to marzenie się spełniło, postanowił podzielić się owocami swojej pracy z innymi. Sałatki wychodzące spod ręki tego szefa kuchni są czymś niezwykłym. Smaczne, lekkie, nietypowe. To tylko kilka ich zalet, a resztę poznajcie sami."
+            }
+        },
+        "more": {
+            "title": "Inne moje projekty:"
+        }
+    },
+    "en": {
+        "popup": {
+            "title": "This website uses cookies",
+            "text": "The website uses cookies to save information about the language used, theme (leading color) and to record information from an external source - YouTube.",
+            "btn": "Accept"
+        },
+        "notFound": {
+            "ups": "Ups!",
+            "info": "Looks like the site you are looking for does not exist!",
+            "link": "Home page"
+        },
+        "noInternet": {
+            "title": "No connection!",
+            "info": "looks like you are not connected to the internet!"
+        },
+        "header": {
+            "menu": "Menu",
+            "product1": "Main courses",
+            "product2": "Desserts",
+            "product3": "Salads",
+            "aboutUs": "About us",
+            "more": "More",
+            "lang": "Choose language:"
+        },
+        "footer": {
+            "col1": {
+                "desc": "Opening hours",
+                "col1.1": "Mon-Fri: 8:00am-10:00pm",
+                "col1.2": "Sat: 12:00pm-12:00am",
+                "col1.3": "Sun: 12:00pm-12:00am"
+            },
+            "col2": {
+                "col2.1": "The website does not encourage taking any stimulants.",
+                "col2.2": "The website does not advertise a real restaurant.",
+                "col2.3": "The website is only a demonstration of the author's programming skills.",
+                "col2.4": "The site uses the following TV series: Breaking Bad and Narcos (Mexico)."
+            },
+            "col3": {
+                "col3.1": "Contact: kacper04business@gmail.com",
+                "col3.2": "linkedIn: n/a"
+            }
+        },
+        "home": {
+            "home": {
+                "title1": "Our uniqueness",
+                "desc1": "Our uniqueness comes from various sources. First of all, these are the people working in our restaurant. They create this wonderful atmosphere. They are the ones who make you want to come back here. Our dear customer, you will spend a lot of time with them. The second source of our uniqueness is the location of our restaurants and the building itself. Each of them is a truly magical place. Every arrival to our restaurant is a magical encounter. The third source is our products served by unique master chefs. They are one of a kind. It is thanks to their skills that when you enter, you will be intimidated by the extraordinary smell of our dishes, and when you try them yourself, you will decide to stay longer at this extraordinary meeting.",
+                "title2": "Our chefs",
+                "desc2": "Our chefs are truly exceptional. They joined forces to give humanity something from themselves, something extraordinary, something magical. Something that everyone wouldn't be able to give on their own. The result is a restaurant chain - ElCocinero. Everyone knows something different, but when we join forces, amazing dishes come out of the kitchen. They take each guest on an extraordinary, exclusive, magical adventure. (Our chefs' characters appear at the top of your screen.)",
+                "title3": "Activity",
+                "desc3": "From the beginning of our activity, we have been trying very hard to reach as many people as possible. In order to promote us, we even created TV series telling the stories of our chefs. We are proud of our business and that we can serve such good food to people who decided to find us. We want to be the best possible neighbor for you, where you can always come and feel at home, taste our dishes and get to know each other again.",
+                "title4": "Our dishes",
+                "desc4": "Our dishes are made with heart. No two identical meals ever come out of the kitchen, despite the same name. This makes them unique and makes every person who visits us feel appreciated. Every meal is a magical meeting with yourself. It is a rediscovery of yourself and a love of your senses. It is a journey served in an aura of mystery by our chefs. Appreciate this smell, appreciate this taste. Discover what you like best. Get to know us to get to know yourself.",
+                "title5": "Restaurants",
+                "desc5": "Our restaurants are shrouded in mystery. You won't find them in obvious places. They require travel and searching. They are a kind of allegory. However, when you find one, you will recognize it immediately. It stands out from other restaurant buildings. Our restaurants are magical. They are one of the elements that create a unique atmosphere. Likewise the places where they are located. You will feel cozy inside. Just like at home. You will be surrounded by the pleasant smell of food. While waiting for your dish, you will hear conversations and laughter. Don't wait and come to us today, and whoever is looking will find us and will not be disappointed."
+            },
+            "carousel": {
+                "img1": "Our main course masters",
+                "img2": "Our dessert chef",
+                "img3": "Our salad expert"
+            },
+            "opinions": {
+                "opinion1": "I found this restaurant by accident, but immediately the dishes served there met my taste. The interior design is interesting. I like it very much. The service is very nice. I will definitely come back to try other dishes.",
+                "opinion2": "I have a hard job, I admit it. But what lifts my spirits are the sweets served by this restaurant. When I'm on duty, I always stop by to order something. Add hot coffee and life becomes better.",
+                "opinion3": "Let me start by saying that this is my favorite restaurant. The atmosphere is great. You can always talk to someone and you can always eat something good. Being in this restaurant is a metaphysical experience. Totally crazy. I recommend highly."
+            }
+        },
+        "menu": {
+            "title": "Menu",
+            "title1": "Main course",
+            "desc1": "In our restaurant, we offer a delectable selection of main courses that cater to every palate. From succulent steaks to comforting and aromatic burrito, our menu is designed to please discerning diners. For those craving a taste of Italy, our homemade lasagna will be the best choice. Our main courses are created with the finest ingredients, skillfully prepared by our talented chefs, and served with impeccable care to ensure a memorable dining experience.",
+            "title2": "Desserts",
+            "desc2": "In our restaurant, indulge in a delectable array of desserts that will satisfy any sweet tooth. From classic favorites to innovative creations, our dessert menu offers a wide variety of options to ensure everyone finds their perfect treat. Dive into rich and creamy apple pie, amazing snickers cakes, and mouthwatering eclairs. Whatever your craving may be, our desserts are crafted with the finest ingredients and executed with skill and passion, guaranteeing a delightful end to your dining experience.",
+            "title3": "Salads",
+            "desc3": "Our restaurant offers a variety of refreshing and nutritious salads that are perfect for a light and healthy meal. From classic potato salad to vibrant and colorful exotic salad, there is something to suit every palate. Our salads feature a combination of fresh, locally sourced vegetables, wonderful additions, and delicious homemade dressings. Whether you're looking for a quick lunch or a vibrant side dish, our salads are sure to leave you feeling satisfied and energized."
+         },
+        "mainCourse": {
+            "mainTitle": "Main courses",
+            "mainDesc": "Our dishes are prepared from the best ingredients, and one of them is the passion with which our chefs cook. Main courses are no exception. Full of flavor and aroma, they will become an amazing experience for you in the warmth of our restaurant.",
+            "item1": {
+                "title": "Burrito",
+                "desc": "Delicious and fulfilling, our burrito is a savory Mexican delight that is sure to please your taste buds. Packed with meat, rice, beans, melted cheese, fresh veggies, and a drizzle of zesty salsa, every bite is a burst of deliciousness. Served with a side of creamy guacamole and sour cream. Don't miss out on this culinary experience that will leave you wanting more."
+            },
+            "item2": {
+                "title": "Hamburgers",
+                "desc": "Juicy, flavorful, and bursting with satisfaction, crafted with premium ingredients. Choose from an array of tantalizing toppings such as melted cheese, crispy bacon or sautéed onionsto build your own culinary creation. Served alongside a generous portion of golden fries or a vibrant side salad, our hamburgers are the ultimate comfort food indulgence."
+            },
+            "item3": {
+                "title": "Lasagne",
+                "desc": "Delicious layers of thin pasta sheets, rich Bolognese sauce, and creamy béchamel come together in our mouthwatering lasagne. This traditional Italian dish is a symphony of flavors that will satisfy your cravings. Topped with a golden layer of melted cheese, our lasagne is cooked to perfection and served piping hot. Indulge in this hearty and comforting classic that will leave you longing for more."
+            },
+            "item4": {
+                "title": "Potato pancakes",
+                "desc": "Crispy and golden, our Potato Pancakes are a delicious and comforting dish that will take you on a journey of flavors. Made with grated potatoes, onions, and a hint of seasoning, these savory delights are pan-fried to perfection. Served with a dollop of our homemade sour cream and a sprinkle of fresh chives, our Potato Pancakes will leave you craving for more."
+            },
+            "item5": {
+                "title": "Steak",
+                "desc": "Juicy, tender, and bursting with flavor, our grilled steak is a carnivore's delight. Expertly seasoned, each mouthwatering bite is a personal journey. Sourced from the finest cuts of prime beef, this succulent steak is seared to a tantalizing medium-rare, allowing the natural juices to meld with the smoky aroma of our open-fire grill."
+            },
+            "item6": {
+                "title": "Tacos",
+                "desc": "Delight your taste buds with our mouthwatering tacos - a truly authentic Mexican experience! Served in warm, soft tortillas, our tacos are filled to the brim with flavorful ingredients. Each bite is a burst of vibrant flavors and textures, creating a symphony of taste sensations. Come and experience a fiesta of flavors with our tantalizing taco selection!"
+            }
+        },
+        "desserts": {
+            "mainTitle": "Desserts",
+            "mainDesc": "Our dishes are prepared from the best ingredients, and one one of them is the passion with which our chefs cook. Desserts are not here except. Full of flavor and scent, they will provide you with unforgettable moments and they will make you forget about the hardships of life. Surrounded by the extraordinary atmosphere, you will be left alone with your one and only dessert.",
+            "item1": {
+                "title": "Apple pie",
+                "desc": "Our signature apple pie is a heavenly dessert. Indulge in our flaky, golden-brown crust generously filled with a medley of hand-picked, freshly sliced apples coated in aromatic spices. Baked to perfection, boasts a tantalizing balance of sweet and tart flavors. Our chefs serve it warm and accompanied by a scoop of creamy vanilla ice cream."
+            },
+            "item2": {
+                "title": "Eclairs",
+                "desc": "Indulge in our Eclairs! These delectable pastries boast a light and airy choux pastry shell, generously filled with a luscious cream, and crowned with a rich chocolate ganache. Each bite is a harmonious balance of textures and flavors. Savor the elegance and culinary craftsmanship of our Eclairs, a dessert that is truly a work of art."
+            },
+            "item3": {
+                "title": "Meringue cake",
+                "desc": "A divine creation for the dessert enthusiasts! Indulge in the light and airy layers of delicate meringue, perfectly balanced with luscious fillings. This masterpiece of confectionary craftsmanship combines the crispy, melt-in-your-mouth meringue shells with an array of sweet and tangy flavors. Garnished with  fresh fruits, this ethereal dessert is guaranteed to enchant your taste buds."
+            },
+            "item4": {
+                "title": "Donuts",
+                "desc": "Indulge in our delectable range of donuts that are simply irresistible. Each donut is handcrafted with love to ensure a heavenly taste experience. Our donuts are perfectly fried to a golden-brown perfection with a fluffy interior that melts in your mouth. Treat yourself to a sugary delight and experience pure bliss with our delectable donuts thanks to our chefs."
+            },
+            "item5": {
+                "title": "Snickers cake",
+                "desc": "Indulge in the sinfully delicious Snickers Cake, a mouthwatering combination of rich chocolate cake, layers of creamy caramel, and chopped peanuts, generously topped with velvety chocolate ganache. This heavenly dessert will surely satisfy your sweet tooth cravings. Thanks to the vibe of our restaurant you will feel like in your home eating this dessert."
+            },
+            "item6": {
+                "title": "Tiramisu cake",
+                "desc": "Indulge  of our classic Tiramisu Cake. Layers of delicate espresso-infused sponge cake are generously soaked in a luscious coffee liqueur, creating a perfect harmony of flavors. Sandwiched between the moist layers lies a velvety mascarpone cream, delicately sweetened and effortlessly light. Topped with a dusting of cocoa powder, this Italian masterpiece might be yours..."
+            }
+        },
+        "salads": {
+            "mainTitle": "Salads",
+            "mainDesc": "Our dishes are prepared from the best ingredients, and one of them is the passion with which our chefs cook. Salads are no exception. Thanks to their rich range of flavors and interesting textures, they will provide you with unforgettable moments and give you a break from everyday difficulties.",
+            "item1": {
+                "title": "Beetroot salad",
+                "desc": "Refreshing Beetroot Salad: Indulge in the vibrant colors and flavors of our Beetroot Salad. A delicious mix of fresh beetroots, crisp greens, drizzled with a zesty lemon dressing. This delightful combination of sweet and savory is guaranteed to tantalize your taste buds. A perfect choice for a light and healthy appetizer or a delightful side dish."
+            },
+            "item2": {
+                "title": "Chicken salad",
+                "desc": "Savor the perfect blend of flavors with our delectable Chicken Salad. Tender, succulent pieces of grilled chicken are generously tossed with crisp lettuce leaves, juicy cherry tomatoes, crunchy cucumbers, and vibrant bell peppers. Indulge in a light and wholesome culinary experience that will leave you craving for more!"
+            },
+            "item3": {
+                "title": "Egg salad",
+                "desc": "Egg Salad Delight: Dive into a scrumptious blend of creamy goodness with our signature Egg Salad! Made with delicately boiled eggs and lightly mixed with mayo, tangy mustard, and a hint of zesty dill. Served on a bed of fresh mixed greens, our salad is the ultimate choice for a light and satisfying meal."
+            },
+            "item4": {
+                "title": "Exotic salad",
+                "desc": "Indulge in a delectable salad featuring the perfect balance of earthy and sweet notes. Our salad with figs and halloumi mushrooms is a culinary delight that will tantalize your taste buds. Tossed with a bed of fresh greens and drizzled with a tangy balsamic glaze. Immerse yourself in a symphony of flavors with this exquisite dish, meticulously crafted to elevate your dining experience."
+            },
+            "item5": {
+                "title": "Grilled aubergines",
+                "desc": "Grilled Aubergines Stuffed with Flavorful Goodness. Indulge in a culinary masterpiece with our Grilled Aubergines Stuffed with Flavorful Goodness. Expertly grilled to perfection, these succulent aubergines are transformed into a delightful canvas for a rich and tantalizing stuffing. Each bite reveals a symphony of flavors that will take you far away to the undisclosed place."
+            },
+            "item6": {
+                "title": "Potato salad",
+                "desc": "Our delicious homemade potato salad is a true classic! We start with tender potatoes, cooked to perfection and then tossed with a creamy mayo-based dressing featuring a blend of flavorful herbs and spices. Bursting with fresh crunch, we add celery and onions for an added layer of texture and taste. This mouthwatering delight is a must-try!"
+            }
+        },
+        "about": {
+            "section0": {
+                "title": "About us",
+                "desc": "Many years ago, great chefs decided to join forces. Each of them was a master in his field. They had a lot of customers and aroused great interest from many companies. Even though they were doing well, they decided to give something to the world. This gift required their cooperation and commitment. The result of what happened is the ElCocinero restaurant chain. This is not a typical restaurant. You won't find it where you would expect, although they offer typical dishes. And yet there is something not obvious about them. Just like in places where you can try these dishes. Finding this restaurant is finding yourself."
+            },
+            "section1": {
+                "title": "Where you can find us?",
+                "desc": "Despite the success we might have in cities, master chefs have determined that places with restaurants will be reminders of their humble beginnings and the places where they started. That's why you can find our magical restaurants in the following places:",
+                "subtitle1": "In the outlands",
+                "subtitle2": "In the woods"
+            },
+            "section2": {
+                "title": "Who are our chefs?",
+                "subtitle1": {
+                    "firstName1": "Walter",
+                    "nickName1": "Heisenberg",
+                    "lastName1": "White",
+                    "firstName2": "Jesse",
+                    "lastName2": "Pinkman"
+                },
+                "subtitle1_type": "Main course",
+                "desc1": "This team is responsible for the main courses. Even before founding ElCocinero, they worked together. They know themselves and their job. This duo will serve you food that you will remember for a long time. This taste and smell combined with an extraordinary appearance will keep you in our restaurant for longer.",
+                "subtitle2": "Pablo Escobar",
+                "subtitle2_type": "Desserts",
+                "desc2": "This chef is definitely a dessert master. His desserts trigger many positive emotions in our guests. There is a wide range to choose from, so there will always be something suitable for various occasions. We definitely invite you to try what this Colombian chef has to offer.",
+                "subtitle3": "Rafael Caro Quintero",
+                "subtitle3_type": "Salads",
+                "desc3": "He has always dreamed of a large field where he could cultivate his specialties. When this dream came true, he decided to share the fruits of his labor with others. The salads prepared by this chef are something extraordinary. Tasty, light, unusual. These are just a few of their advantages, and discover the rest for yourself."
+            }
+        },
+        "more": {
+            "title": "My other projects:"
+        }
+    },
+    "es": {
+        "popup": {
+            "title": "Este sitio web utiliza cookies",
+            "text": "El sitio web utiliza cookies para guardar información sobre el idioma utilizado, el tema (color principal) y para registrar información de una fuente externa: YouTube.",
+            "btn": "Acepto"
+        },
+        "notFound": {
+            "ups": "¡Ups!",
+            "info": "¡Parece que la página que estás buscando no existe!",
+            "link": "Hogar"
+        },
+        "noInternet": {
+            "title": "¡Sin conexión!",
+            "info": "¡Parece que no tienes conexión a Internet!"
+        },
+        "header": {
+            "menu": "Menu",
+            "product1": "Platos principales",
+            "product2": "Postres",
+            "product3": "Ensaladas",
+            "aboutUs": "Sobre nosotros",
+            "more": "Más",
+            "lang": "Elige lengua:"
+        },
+        "footer": {
+            "col1": {
+                "desc": "Horario",
+                "col1.1": "Lu-Vi: 8:00-22:00",
+                "col1.2": "Sa: 12:00-24:00",
+                "col1.3": "Do: 12:00-24:00"
+            },
+            "col2": {
+                "col2.1": "El sitio web no recomienda tomar ningún estimulante.",
+                "col2.2": "El sitio web no anuncia un restaurante real.",
+                "col2.3": "El sitio web es sólo una demostración de las habilidades de programación del autor.",
+                "col2.4": "El sitio utiliza las siguientes series de televisión: Breaking Bad y Narcos (México)."
+            },
+            "col3": {
+                "col3.1": "Contacto: kacper04business@gmail.com",
+                "col3.2": "linkedIn: n/a"
+            }
+        },
+        "home": {
+            "home": {
+                "title1": "Nuestra singularidad",
+                "desc1": "Nuestra singularidad proviene de varias fuentes. En primer lugar, estas son las personas que trabajan en nuestro restaurante. Crean esta maravillosa atmósfera. Ellos son los que te dan ganas de volver aquí. Nuestro querido cliente, pasará mucho tiempo con ellos. La segunda fuente de nuestra singularidad es la ubicación de nuestros restaurantes y el edificio en sí. Cada uno de ellos es un lugar verdaderamente mágico. Cada llegada a nuestro restaurante es un encuentro mágico. La tercera fuente son nuestros productos servidos por maestros chefs únicos. Son únicos. Es gracias a sus habilidades que al entrar te dejarás intimidar por el extraordinario olor de nuestros platos, y cuando los pruebes tú mismo decidirás quedarte más tiempo en este extraordinario encuentro.",
+                "title2": "Nuestros chefs",
+                "desc2": "Nuestros chefs son realmente excepcionales. Unieron fuerzas para darle a la humanidad algo de ellos mismos, algo extraordinario, algo mágico. Algo que no todos podrían dar por sí solos. El resultado es una cadena de restaurantes: ElCocinero. Cada uno sabe algo diferente, pero cuando unimos fuerzas, de la cocina salen platos increíbles. Llevan a cada huésped a una aventura extraordinaria, exclusiva y mágica. (Los personajes de nuestros chefs aparecen en la parte superior de la pantalla).",
+                "title3": "Actividad",
+                "desc3": "Desde el inicio de nuestra actividad, nos hemos esforzado mucho en llegar al mayor número de personas posible. Para promocionarnos, incluso creamos series de televisión que cuentan las historias de nuestros chefs. Estamos orgullosos de nuestro negocio y de poder servir tan buena comida a las personas que decidieron buscarnos. Queremos ser para ti el mejor vecino posible, donde siempre puedas venir y sentirte como en casa, probar nuestros platos y volver a conocernos.",
+                "title4": "Nuestros platos",
+                "desc4": "Nuestros platos están hechos con corazón. De la cocina nunca salen dos platos idénticos, a pesar del mismo nombre. Esto los hace únicos y hace que cada persona que nos visita se sienta apreciada. Cada comida es un encuentro mágico contigo mismo. Es un redescubrimiento de ti mismo y un amor por tus sentidos. Es un viaje servido en un aura de misterio por nuestros chefs. Aprecia este olor, aprecia este sabor. Descubre lo que más te gusta. Conócenos para conocerte a ti mismo.",
+                "title5": "Restaurantes",
+                "desc5": "Nuestros restaurantes están envueltos en un velo de misterio. No los encontrarás en lugares obvios. Requieren viajar y buscar. Son una especie de alegoría. Sin embargo, cuando encuentres uno, lo reconocerás inmediatamente. Se destaca de otros edificios de restauración. Nuestros restaurantes son mágicos. Son uno de los elementos que crean una atmósfera única. Así mismo los lugares donde se encuentren. Te sentirás cómodo por dentro. Como en casa. Estarás rodeado por el agradable olor a comida. Mientras esperas tu plato, escucharás conversaciones y risas. No esperes y ven a nosotros hoy, y quien busque nos encontrará y no quedará decepcionado."
+            },
+            "carousel": {
+                "img1": "Nuestros chefs de platos principales",
+                "img2": "Nuestro chef de postres",
+                "img3": "Nuestro chef de ensaladas"
+            },
+            "opinions": {
+                "opinion1": "Encontré este restaurante por casualidad, pero inmediatamente los platos que se sirven allí fueron de mi agrado. El diseño interior es interesante. Me gusta mucho. El servicio es muy agradable. Definitivamente regresaré para probar otros platos.",
+                "opinion2": "Tengo un trabajo duro, lo admito. Pero lo que me levanta el ánimo son los dulces que sirve este restaurante. Cuando estoy de servicio, siempre paso a pedir algo. Agregue café caliente y la vida mejorará.",
+                "opinion3": "Empezaré diciendo que este es mi restaurante favorito. El ambiente es genial. Siempre puedes hablar con alguien y siempre puedes comer algo bueno. Estar en este restaurante es una experiencia metafísica. Totalmente loco. Lo recomiendo mucho."
+            }
+        },
+        "menu": {
+            "title": "Menu",
+            "title1": "Plato principal",
+            "desc1": "En nuestro restaurante ofrecemos una deliciosa selección de platos principales que satisfacen todos los paladares. Desde suculentos filetes hasta reconfortantes y aromáticos burritos, nuestro menú está diseñado para complacer a los comensales más exigentes. Para aquellos que anhelan el sabor de Italia, nuestra lasaña casera será la mejor opción. Nuestros platos principales se crean con los mejores ingredientes, los preparan hábilmente nuestros talentosos chefs y se sirven con un cuidado impecable para garantizar una experiencia gastronómica memorable.",
+            "title2": "Postres",
+            "desc2": "En nuestro restaurante, deléitese con una deliciosa variedad de postres que satisfarán a los golosos. Desde los favoritos clásicos hasta creaciones innovadoras, nuestro menú de postres ofrece una amplia variedad de opciones para garantizar que todos encuentren su delicia perfecta. Sumérgete en una rica y cremosa tarta de manzana, increíbles pasteles de snickers y deliciosos canutillos. Cualquiera que sea su antojo, nuestros postres están elaborados con los mejores ingredientes y ejecutados con habilidad y pasión, lo que garantiza un final delicioso para su experiencia gastronómica.",
+            "title3": "Ensaladas",
+            "desc3": "Nuestro restaurante ofrece una variedad de ensaladas refrescantes y nutritivas, perfectas para una comida ligera y saludable. Desde la clásica ensalada de patatas hasta la vibrante y colorida ensalada exótica, hay algo para todos los paladares. Nuestras ensaladas incluyen una combinación de vegetales frescos de origen local, maravillosas adiciones y deliciosos aderezos caseros. Ya sea que esté buscando un almuerzo rápido o una guarnición vibrante, nuestras ensaladas seguramente lo dejarán satisfecho y lleno de energía."
+         },
+        "mainCourse": {
+            "mainTitle": "Platos principales",
+            "mainDesc": "Nuestros platos están elaborados con los mejores ingredientes, y uno de ellos es la pasión con la que cocinan nuestros chefs. Los platos principales no son una excepción. Llenos de sabor y aroma, se convertirán para ti en una increíble experiencia en la calidez de nuestro restaurante.",
+            "item1": {
+                "title": "Burrito",
+                "desc": "Delicioso y saciante, nuestro burrito es una sabrosa delicia mexicana que seguramente complacerá tu paladar. Lleno de carne, arroz, frijoles, queso derretido, verduras frescas y un chorrito de salsa picante, cada bocado es una explosión de delicias. Servido con una guarnición de guacamole cremoso y crema agria. No te pierdas esta experiencia culinaria que te dejará con ganas de más."
+            },
+            "item2": {
+                "title": "Hamburguesas",
+                "desc": "Jugoso, sabroso y lleno de satisfacción, elaborado con ingredientes de primera calidad. Elija entre una variedad de aderezos tentadores, como queso derretido, tocino crujiente o cebollas salteadas, para crear su propia creación culinaria. Servidas junto con una generosa porción de papas fritas doradas o una vibrante ensalada, nuestras hamburguesas son lo último en comida reconfortante."
+            },
+            "item3": {
+                "title": "Lasaña",
+                "desc": "Deliciosas capas de finas láminas de pasta, rica salsa boloñesa y bechamel cremosa se combinan en nuestra deliciosa lasaña. Este plato tradicional italiano es una sinfonía de sabores que satisfará tus antojos. Cubierta con una capa dorada de queso derretido, nuestra lasaña se cocina a la perfección y se sirve bien caliente. Deléitate con este clásico reconfortante y abundante que te dejará con ganas de más."
+            },
+            "item4": {
+                "title": "Tortillas de papa",
+                "desc": "Crujientes y doradas, nuestras Tortitas de Papa son un platillo delicioso y reconfortante que te llevará a un viaje de sabores. Elaboradas con patatas ralladas, cebollas y un toque de condimento, estas delicias saladas se fríen a la perfección. Servidas con una cucharada de nuestra crema agria casera y una pizca de cebollino fresco, nuestras tortitas de patata te dejarán con ganas de más."
+            },
+            "item5": {
+                "title": "Bife",
+                "desc": "Jugoso, tierno y lleno de sabor, nuestro bistec a la parrilla es una delicia para los carnívoros. Condimentado por expertos, cada bocado delicioso es un viaje personal. Procedente de los mejores cortes de carne de res de primera calidad, este suculento bistec se chamusca a un tentador término medio, lo que permite que los jugos naturales se fusionen con el aroma ahumado de nuestra parrilla a fuego abierto."
+            },
+            "item6": {
+                "title": "Tacos",
+                "desc": "Deleita tu paladar con nuestros deliciosos tacos: ¡una auténtica experiencia mexicana! Servidos en tortillas suaves y calientes, nuestros tacos están llenos hasta el borde de ingredientes sabrosos. Cada bocado es una explosión de sabores y texturas vibrantes, creando una sinfonía de sensaciones gustativas. ¡Ven y experimenta una fiesta de sabores con nuestra tentadora selección de tacos!"
+            }
+        },
+        "desserts": {
+            "mainTitle": "Postres",
+            "mainDesc": "Nuestros platos están elaborados con los mejores ingredientes, y una de ellas es la pasión con la que cocinan nuestros chefs. Los postres no estan aqui excepto. Llenas de sabor y aroma, te brindarán momentos inolvidables. Y te harán olvidar las dificultades de la vida. Rodeado de lo extraordinario ambiente, te quedarás solo con tu único postre.",
+            "item1": {
+                "title": "Tarta de manzana",
+                "desc": "Nuestra exclusiva tarta de manzana es un postre celestial. Deléitese con nuestra corteza hojaldrada de color marrón dorado, generosamente rellena con una mezcla de manzanas recién cortadas a mano y cubiertas con especias aromáticas. Horneado a la perfección, cuenta con un tentador equilibrio de sabores dulces y ácidos. Nuestros chefs lo sirven calentito y acompañado de una bola de cremoso helado de vainilla."
+            },
+            "item2": {
+                "title": "Canutillos",
+                "desc": "¡Deléitate con nuestros canutillos! Estos deliciosos pasteles cuentan con una base de masa choux ligera y aireada, generosamente rellenos con una deliciosa crema y coronados con una rica ganache de chocolate. Cada bocado es un equilibrio armonioso de texturas y sabores. Saborea la elegancia y la artesanía culinaria de nuestros canudillos, un postre que es verdaderamente una obra de arte."
+            },
+            "item3": {
+                "title": "Pastel de merengue",
+                "desc": "¡Una creación divina para los amantes de los postres! Deléitese con las capas ligeras y aireadas de delicado merengue, perfectamente equilibrado con deliciosos rellenos. Esta obra maestra de la artesanía de repostería combina las crujientes cáscaras de merengue que se derriten en la boca con una variedad de sabores dulces y picantes. Adornado con frutas frescas, este postre etéreo seguramente encantará su paladar."
+            },
+            "item4": {
+                "title": "Donas",
+                "desc": "Deléitese con nuestra deliciosa variedad de donas que son simplemente irresistibles. Cada donut está hecho a mano con amor para garantizar una experiencia de sabor celestial. Nuestras donas están perfectamente fritas hasta obtener un color dorado perfecto y un interior esponjoso que se derrite en la boca. Regálate una delicia azucarada y experimenta pura felicidad con nuestros deliciosos donuts gracias a nuestros chefs."
+            },
+            "item5": {
+                "title": "Tarta de snickers",
+                "desc": "Deléitese con el delicioso Snickers Cake, una deliciosa combinación de rico pastel de chocolate, capas de caramelo cremoso y maní picado, generosamente cubierto con una aterciopelada ganache de chocolate. Este postre celestial seguramente satisfará tus antojos de dulce. Gracias al ambiente de nuestro restaurante te sentirás como en tu casa comiendo este postre."
+            },
+            "item6": {
+                "title": "Tarta de tiramisu",
+                "desc": "Deléitese con nuestro clásico pastel de tiramisú. Las capas de delicado bizcocho con infusión de espresso se empapan generosamente en un delicioso licor de café, creando una perfecta armonía de sabores. Intercalada entre las capas húmedas se encuentra una crema de mascarpone aterciopelada, delicadamente endulzada y ligera sin esfuerzo. Cubierto con una capa de cacao en polvo, esta obra maestra italiana podría ser tuya..."
+            }
+        },
+        "salads": {
+            "mainTitle": "Ensaladas",
+            "mainDesc": "Nuestros platos están elaborados con los mejores ingredientes, y uno de ellos es la pasión con la que cocinan nuestros chefs. Las ensaladas no son una excepción. Gracias a su rica gama de sabores e interesantes texturas, te brindarán momentos inolvidables y te darán un respiro de las dificultades cotidianas.",
+            "item1": {
+                "title": "Ensalada de remolacha",
+                "desc": "Ensalada refrescante de remolacha: Deléitese con los colores y sabores vibrantes de nuestra ensalada de remolacha. Una deliciosa mezcla de remolachas frescas y hojas verdes crujientes, rociadas con un sabroso aderezo de limón. Esta deliciosa combinación de dulce y salado seguramente tentará su paladar. Una elección perfecta para un aperitivo ligero y saludable o una deliciosa guarnición."
+            },
+            "item2": {
+                "title": "Ensalada de pollo",
+                "desc": "Saborea la mezcla perfecta de sabores con nuestra deliciosa Ensalada de Pollo. Los tiernos y suculentos trozos de pollo asado se mezclan generosamente con hojas de lechuga crujientes, jugosos tomates cherry, pepinos crujientes y vibrantes pimientos morrones. ¡Disfruta de una experiencia culinaria ligera y saludable que te dejará con ganas de más!"
+            },
+            "item3": {
+                "title": "Ensalada de huevo",
+                "desc": "Delicia de ensalada de huevo: ¡Sumérjase en una deliciosa mezcla de delicias cremosas con nuestra exclusiva ensalada de huevo! Elaborado con huevos delicadamente cocidos y ligeramente mezclado con mayonesa, mostaza picante y un toque de eneldo picante. Servida sobre una cama de verduras mixtas frescas, nuestra ensalada es la mejor opción para una comida ligera y satisfactoria."
+            },
+            "item4": {
+                "title": "Ensalada exótica",
+                "desc": "Deléitese con una deliciosa ensalada que ofrece el equilibrio perfecto entre notas terrosas y dulces. Nuestra ensalada con higos y setas halloumi es una delicia culinaria que deleitará tu paladar. Mezclado con una cama de verduras frescas y rociado con un glaseado balsámico picante. Sumérgete en una sinfonía de sabores con este exquisito plato, meticulosamente elaborado para mejorar tu experiencia gastronómica."
+            },
+            "item5": {
+                "title": "Berenjenas asadas",
+                "desc": "Berenjenas asadas rellenas de sabrosas delicias. Deléitese con una obra maestra culinaria con nuestras berenjenas asadas rellenas de sabrosa delicia. Asadas por expertos a la perfección, estas suculentas berenjenas se transforman en un delicioso lienzo para un relleno rico y tentador. Cada bocado revela una sinfonía de sabores que te transportará a un lugar desconocido."
+            },
+            "item6": {
+                "title": "Ensalada de patatas",
+                "desc": "¡Nuestra deliciosa ensalada de patatas casera es un auténtico clásico! Comenzamos con papas tiernas, cocidas a la perfección y luego mezcladas con un aderezo cremoso a base de mayonesa con una mezcla de sabrosas hierbas y especias. Rebosantes de frescura crujiente, agregamos apio y cebolla para darle una capa adicional de textura y sabor. ¡Esta deliciosa delicia es algo que debes probar!"
+            }
+        },
+        "about": {
+            "section0": {
+                "title": "Sobre nosotros",
+                "desc": "Hace muchos años, grandes chefs decidieron unir fuerzas. Cada uno de ellos era un maestro en su campo. Tenían muchos clientes y despertaron un gran interés por parte de muchas empresas. Aunque les iba bien, decidieron darle algo al mundo. Este regalo requirió su cooperación y compromiso. Fruto de lo ocurrido es la cadena de restaurantes ElCocinero. Este no es un restaurante típico. No lo encontrarás donde esperarías, aunque ofrecen platos típicos. Y, sin embargo, hay algo que no es obvio en ellos. Como en los lugares donde puedes probar estos platos. Encontrar este restaurante es encontrarte a ti mismo."
+            },
+            "section1": {
+                "title": "¿Donde se puede encontrarnos?",
+                "desc": "A pesar del éxito que podamos tener en las ciudades, los maestros chefs determinaron que los lugares con restaurantes recordarían sobre sus humildes comienzos y dónde comenzaron. Por eso podrás encontrar nuestros mágicos restaurantes en los siguientes lugares:",
+                "subtitle1": "En el medio de la nada",
+                "subtitle2": "En el bosque"
+            },
+            "section2": {
+                "title": "¿Quienes son nuestros chefs?",
+                "subtitle1": {
+                    "firstName1": "Walter",
+                    "nickName1": "Heisenberg",
+                    "lastName1": "White",
+                    "firstName2": "Jesse",
+                    "lastName2": "Pinkman"
+                },
+                "subtitle1_type": "Platos principales",
+                "desc1": "Este equipo es responsable de los platos principales. Incluso antes de fundar ElCocinero, trabajaron juntos. Se conocen a sí mismos y a su trabajo. Este dúo te servirá comida que recordarás durante mucho tiempo. Este sabor y olor combinados con una apariencia extraordinaria te mantendrán en nuestro restaurante por más tiempo.",
+                "subtitle2": "Pablo Escobar",
+                "subtitle2_type": "Postres",
+                "desc2": "Definitivamente un maestro de los postres. Sus postres provocan muchas emociones positivas en nuestros invitados. Hay una amplia gama para elegir, por lo que siempre habrá algo adecuado para diversas ocasiones. Definitivamente te invitamos a probar lo que este chef colombiano tiene para ofrecer.",
+                "subtitle3": "Rafael Caro Quintero",
+                "subtitle3_type": "Ensaladas",
+                "desc3": "Siempre ha soñado con un gran campo donde poder cultivar sus especialidades. Cuando este sueño se hizo realidad, decidió compartir los frutos de su trabajo con otros. Las ensaladas que prepara este chef son algo extraordinario. Sabroso, ligero, inusual. Estas son sólo algunas de sus ventajas y descubre el resto tú mismo."
+            }
+        },
+        "more": {
+            "title": "Mis otros proyectos:"
+        }
+    }
+}
