@@ -4,7 +4,7 @@ This site on <a href="https://react-elcocinero.netlify.app/" target="_blank">Net
 
 ## English
 
-### This project made using *react* and *vite* technologies.
+### This project is made using *react* and *vite* technologies.
 
 It shows the author's programming skills.
 Contains elements such as:
