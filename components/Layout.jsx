@@ -25,7 +25,7 @@ export default function Layout() {
             return "en";
         }
     }
-
+    
     function getCookie(type) {
         const cookies = document.cookie;
         const types = ["popup", "language", "theme"];
@@ -37,8 +37,9 @@ export default function Layout() {
         }
         return null;
     }
-
+    
     function changeLanguage(data) {
+        document.documentElement.lang = data;
         setLanguage(data);
         const d = new Date();
         d.setTime(d.getTime() + 24*60*60*1000); //język na 24 godziny
