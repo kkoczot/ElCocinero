@@ -18,8 +18,10 @@ export default function Layout() {
         const langNavig = window.navigator.language.split('-')[0];
         const langPack = ["pl", "en", "es"];
         if(langPack.includes(langNavig)) {
+            document.documentElement.lang = langNavig;
             return langNavig;
         } else {
+            document.documentElement.lang = "en";
             return "en";
         }
     }
@@ -47,7 +49,7 @@ export default function Layout() {
     function changeTheme() {
         setTheme(old => old == "dark" ? "light" : "dark");
         const d = new Date();
-        d.setTime(d.getTime() * 60*60*1000); //motyw na 1 godzinę
+        d.setTime(d.getTime() + 60*60*1000); //motyw na 1 godzinę
         const expires = "expires="+d.toUTCString();
         document.cookie = `theme=${theme == "dark" ? "light" : "dark"};${expires};path=/`;
     }
