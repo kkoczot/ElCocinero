@@ -1,10 +1,10 @@
-# ElCocinero: React + Vite
+# ElCocinero: React + React-Router-Dom + Vite
 
 This site on <a href="https://react-elcocinero.netlify.app/" target="_blank">Netlify</a>
 
 ## English
 
-### This project is made using *react* and *vite* technologies.
+### This project is made using *react*, *react-router-dom* and *vite* technologies.
 
 It shows the author's programming skills.
 Contains elements such as:
@@ -20,7 +20,7 @@ Additionally, the website is responsive and contains elements that respond to mo
 
 ## Polski
 
-### Projekt wykonany za pomocą technologii *react* oraz *vite*.
+### Projekt wykonany za pomocą technologii *react*, *react-router-dom* oraz *vite*.
 
 Pokazuje on umiejętności programistyczne autora.
 Zawiera takie elementy jak:
