@@ -51,13 +51,13 @@ export default function About() {
                     <div className="section-wrapper">
                         <h3 className="section-wrapper-title">{tr[language].about.section1.subtitle1}</h3>
                         <div className="section-wrapper-img">
-                            <img src="../src/baners/big/baner6.jpg" className="section-img" />
+                            <img src="/about/outlands.jpg" alt={tr[language].about.section1.subtitle1} className="section-img" />
                         </div>
                     </div>
                     <div className="section-wrapper">
                         <h3 className="section-wrapper-title">{tr[language].about.section1.subtitle2}</h3>
                         <div className="section-wrapper-img">
-                            <img src="../src/baners/big/baner5.jpg" className="section-img" />
+                            <img src="/about/jungle.jpg" alt={tr[language].about.section1.subtitle2} className="section-img" />
                         </div>
                     </div>
                 </div>
