@@ -27,10 +27,10 @@ export default function Opinions(props) {
     return (
         <div className={`opinions ${"show-item"+currentItem}`}>
             <div style={currentItem == -1 ? {display: "none"} : currentItem == 0 ? {display: "none"} : {display: "flex"}} className="opinion-arrow arrow-left" onClick={() => handleArrowClick('-')}>
-                <img src="../src/arrow.png" className="opinion-arrow-img" />
+                <img src="../src/arrow.png" alt="arrow left" className="opinion-arrow-img" />
             </div>
             <div style={currentItem == -1 ? {display: "none"} : currentItem == 2 ? {display: "none"} : {display: "flex"}} className="opinion-arrow arrow-right" onClick={() => handleArrowClick('+')}>
-                <img src="../src/arrow.png" className="opinion-arrow-img" />
+                <img src="../src/arrow.png" alt="arrow right" className="opinion-arrow-img" />
             </div>
             <div className="opinion-item opinion-item1">
                 <div className="opinion-item-lower">
