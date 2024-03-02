@@ -54,7 +54,7 @@ export default function Header(props) {
                     </nav>
                     <Link to="." className="logo" onClick={() => handleCloseBar()}>ElCocinero</Link>
                     <div className="flex">
-                        <button className="color-btn" onClick={() => props.changeTheme()}></button>
+                        <button className="color-btn" aria-label="Change theme" onClick={() => props.changeTheme()}></button>
                         <select id="header-select" className="small-off header-select" value={selected} onChange={handleChange}>
                             <option className="select-option" value="en">English</option>
                             <option className="select-option" value="pl">Polski</option>
