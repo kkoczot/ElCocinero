@@ -6,7 +6,7 @@ This site on <a href="https://react-elcocinero.netlify.app/" target="_blank">Net
 
 ### This project is made using *react*, *react-router-dom* and *vite* technologies.
 
-It shows the author's programming skills.
+It shows my programming skills.
 Contains elements such as:
 
  - light/dark theme automatically selected based on user preferences and can be changed
@@ -22,7 +22,7 @@ Additionally, the website is responsive and contains elements that respond to mo
 
 ### Projekt wykonany za pomocą technologii *react*, *react-router-dom* oraz *vite*.
 
-Pokazuje on umiejętności programistyczne autora.
+Pokazuje on moje umiejętności programistyczne.
 Zawiera takie elementy jak:
 
  - jasny/ciemny motyw automatycznie wybierany na podstawie preferencji użytkownika z możliwością zmiany
