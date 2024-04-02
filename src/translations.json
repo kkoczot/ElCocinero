@@ -37,8 +37,9 @@
                 "col2.4": "Strona wspomaga się serialami: Breaking Bad i Narcos (Meksyk)."
             },
             "col3": {
-                "col3.1": "Kontakt: kacper04business@gmail.com",
-                "col3.2": "linkedIn: n/a"
+                "col3.1": "Kontakt:",
+                "col3.2": "email",
+                "col3.3": "linkedIn"
             }
         },
         "home": {
@@ -73,7 +74,7 @@
             "desc2": "W naszej restauracji możesz delektować się wyśmienitymi deserami, które zaspokoją każdy apetyt na słodycze. Od klasycznych ulubionych dań po innowacyjne kreacje, nasze menu deserów oferuje szeroką gamę opcji, dzięki czemu każdy znajdzie dla siebie idealną przekąskę. Zanurz się w bogatej i kremowej szarlotce, niesamowitych ciastach Snickers i przepysznych eklerkach. Niezależnie od Twoich pragnień, nasze desery są przygotowywane z najlepszych składników i wykonywane z umiejętnościami i pasją, gwarantując wspaniałe zakończenie posiłku.",
             "title3": "Sałatki",
             "desc3": "Nasza restauracja oferuje szeroki wybór orzeźwiających i pożywnych sałatek, które idealnie nadają się na lekki i zdrowy posiłek. Od klasycznej sałatki ziemniaczanej po tętniącą życiem i kolorami sałatkę egzotyczną – każdy znajdzie coś dla siebie. Nasze sałatki składają się ze świeżych, lokalnych warzyw, cudownuch dodatków i pysznych domowych sosów. Niezależnie od tego, czy masz ochotę na szybki lunch, czy też wyrazistą przystawkę, nasze sałatki z pewnością sprawią, że poczujesz się usatysfakcjonowany i pełen energii."
-         },
+        },
         "mainCourse": {
             "mainTitle": "Dania główne",
             "mainDesc": "Nasze dania przygotowywane są z najlepszych składników, a jednym z nich jest pasja z jaką gotują nasi kucharze. Dania główne nie są tutaj wyjątkiem. Pełne smaku i zapachu staną się dla ciebie niesamowitym przeżyciem, w cieple naszej restauracji.",
@@ -189,7 +190,8 @@
             }
         },
         "more": {
-            "title": "Inne moje projekty:"
+            "title": "Inne dania szefów:",
+            "img_alt": "Nowe dania już jadą..."
         }
     },
     "en": {
@@ -230,8 +232,9 @@
                 "col2.4": "The site uses the following TV series: Breaking Bad and Narcos (Mexico)."
             },
             "col3": {
-                "col3.1": "Contact: kacper04business@gmail.com",
-                "col3.2": "linkedIn: n/a"
+                "col3.1": "Contact:",
+                "col3.2": "email",
+                "col3.3": "linkedIn"
             }
         },
         "home": {
@@ -266,7 +269,7 @@
             "desc2": "In our restaurant, indulge in a delectable array of desserts that will satisfy any sweet tooth. From classic favorites to innovative creations, our dessert menu offers a wide variety of options to ensure everyone finds their perfect treat. Dive into rich and creamy apple pie, amazing snickers cakes, and mouthwatering eclairs. Whatever your craving may be, our desserts are crafted with the finest ingredients and executed with skill and passion, guaranteeing a delightful end to your dining experience.",
             "title3": "Salads",
             "desc3": "Our restaurant offers a variety of refreshing and nutritious salads that are perfect for a light and healthy meal. From classic potato salad to vibrant and colorful exotic salad, there is something to suit every palate. Our salads feature a combination of fresh, locally sourced vegetables, wonderful additions, and delicious homemade dressings. Whether you're looking for a quick lunch or a vibrant side dish, our salads are sure to leave you feeling satisfied and energized."
-         },
+        },
         "mainCourse": {
             "mainTitle": "Main courses",
             "mainDesc": "Our dishes are prepared from the best ingredients, and one of them is the passion with which our chefs cook. Main courses are no exception. Full of flavor and aroma, they will become an amazing experience for you in the warmth of our restaurant.",
@@ -382,7 +385,8 @@
             }
         },
         "more": {
-            "title": "My other projects:"
+            "title": "Other chefs' dishes:",
+            "img_alt": "New dishes are already on their way..."
         }
     },
     "es": {
@@ -423,8 +427,9 @@
                 "col2.4": "El sitio utiliza las siguientes series de televisión: Breaking Bad y Narcos (México)."
             },
             "col3": {
-                "col3.1": "Contacto: kacper04business@gmail.com",
-                "col3.2": "linkedIn: n/a"
+                "col3.1": "Contacto:",
+                "col3.2": "email",
+                "col3.3": "linkedIn"
             }
         },
         "home": {
@@ -459,7 +464,7 @@
             "desc2": "En nuestro restaurante, deléitese con una deliciosa variedad de postres que satisfarán a los golosos. Desde los favoritos clásicos hasta creaciones innovadoras, nuestro menú de postres ofrece una amplia variedad de opciones para garantizar que todos encuentren su delicia perfecta. Sumérgete en una rica y cremosa tarta de manzana, increíbles pasteles de snickers y deliciosos canutillos. Cualquiera que sea su antojo, nuestros postres están elaborados con los mejores ingredientes y ejecutados con habilidad y pasión, lo que garantiza un final delicioso para su experiencia gastronómica.",
             "title3": "Ensaladas",
             "desc3": "Nuestro restaurante ofrece una variedad de ensaladas refrescantes y nutritivas, perfectas para una comida ligera y saludable. Desde la clásica ensalada de patatas hasta la vibrante y colorida ensalada exótica, hay algo para todos los paladares. Nuestras ensaladas incluyen una combinación de vegetales frescos de origen local, maravillosas adiciones y deliciosos aderezos caseros. Ya sea que esté buscando un almuerzo rápido o una guarnición vibrante, nuestras ensaladas seguramente lo dejarán satisfecho y lleno de energía."
-         },
+        },
         "mainCourse": {
             "mainTitle": "Platos principales",
             "mainDesc": "Nuestros platos están elaborados con los mejores ingredientes, y uno de ellos es la pasión con la que cocinan nuestros chefs. Los platos principales no son una excepción. Llenos de sabor y aroma, se convertirán para ti en una increíble experiencia en la calidez de nuestro restaurante.",
@@ -575,7 +580,8 @@
             }
         },
         "more": {
-            "title": "Mis otros proyectos:"
+            "title": "Otros platos de chefs:",
+            "img_alt": "Nuevos platos ya están en camino..."
         }
     }
 }
