@@ -4,14 +4,14 @@ import tr from '../src/translations.json'
 
 export default function About() {
     const language = useOutletContext();
-    
+
     function reveal() {
         const reveals = document.querySelectorAll(".section2-item");
-        for(let i = 0; i < reveals.length; i++) {
+        for (let i = 0; i < reveals.length; i++) {
             let windowHeight = window.innerHeight;
             let elementTop = reveals[i].getBoundingClientRect().top;
             let elementVisible = 150;
-            if(elementTop < windowHeight - elementVisible) {
+            if (elementTop < windowHeight - elementVisible) {
                 reveals[i].classList.add("active");
             } else {
                 reveals[i].classList.remove("active");
@@ -24,10 +24,16 @@ export default function About() {
         for (let i = 0; i < bgs.length; i++) {
             let windowHeight = window.innerHeight;
             let elementTop = bgs[i].getBoundingClientRect().top;
-            if(windowHeight - elementTop > 0 && windowHeight - elementTop < windowHeight) {
-                if(i === 0) document.body.style.setProperty("--scrVal1", Math.round((elementTop - windowHeight) / 100)+"rem");
-                if(i === 1) document.body.style.setProperty("--scrVal2", Math.round((elementTop - windowHeight) / -100)+"rem");
-                if(i === 2) document.body.style.setProperty("--scrVal3", Math.round((elementTop - windowHeight) / 100)+"rem");
+            let elementHeight = bgs[i].getBoundingClientRect().height;
+            if (i === 0) {
+                console.log("WindowHeight:", windowHeight);
+                console.log("ElementTop:", elementTop);
+                console.log("ElementHeight:", elementHeight);
+            }
+            if (windowHeight - elementTop > 0 && -elementTop < windowHeight) {
+                if (i === 0) document.body.style.setProperty("--scrVal1", Math.round((elementTop - windowHeight) / 100) + "rem");
+                if (i === 1) document.body.style.setProperty("--scrVal2", Math.round((elementTop - windowHeight) / -100) + "rem");
+                if (i === 2) document.body.style.setProperty("--scrVal3", Math.round((elementTop - windowHeight) / 100) + "rem");
             }
         }
     }
@@ -35,7 +41,7 @@ export default function About() {
     React.useEffect(() => {
         window.addEventListener("scroll", reveal);
         window.addEventListener("scroll", moveBG);
-        return () => {window.removeEventListener("scroll", reveal); window.removeEventListener("scroll", moveBG)}
+        return () => { window.removeEventListener("scroll", reveal); window.removeEventListener("scroll", moveBG) }
     }, [])
 
     return (
