@@ -8,9 +8,8 @@ export default function More() {
             <h2 className="more-title">{tr[language].more.title}</h2>
             <div className="more-imgs">
                 <div className="more-img-wrapper">
-                    <a href="https://react-firebase-shop.netlify.app/" className="more-img-link" target="_blank" rel="noreferrer">
-                        <img className="more-img" src="/refs/projekt1.jpg" title="react firebase shop" />
-                    </a>
+                    <span className="more-span">{tr[language].more.img_alt}</span>
+                    <img className="more-img" src="/about/outlands.jpg" alt={tr[language].more.img_alt} />
                 </div>
             </div>
         </div>
